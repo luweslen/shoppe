@@ -1,0 +1,13 @@
+footer {
+    max-width: 1080px;
+    width: 100%;
+    min-height: 128px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    padding: 16px;
+    
+    border-top: 1px solid #D8D8D8;
+}
